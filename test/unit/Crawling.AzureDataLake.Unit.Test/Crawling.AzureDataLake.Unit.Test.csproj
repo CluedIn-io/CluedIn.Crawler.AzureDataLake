@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\AzureDataLake.Core\Crawling.AzureDataLake.Core.csproj" />
+    <ProjectReference Include="..\..\..\src\AzureDataLake.Crawling\Crawling.AzureDataLake.csproj" />
+    <ProjectReference Include="..\..\..\src\AzureDataLake.Infrastructure\Crawling.AzureDataLake.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

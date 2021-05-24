@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Files.DataLake" />
+    <PackageReference Include="CsvHelper" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AzureDataLake.Core\Crawling.AzureDataLake.Core.csproj" />
+  </ItemGroup>
+</Project>

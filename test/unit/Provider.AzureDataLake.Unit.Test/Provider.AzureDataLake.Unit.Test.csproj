@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\AzureDataLake.Provider\Provider.AzureDataLake.csproj" />
+  </ItemGroup>
+</Project>
